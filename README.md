@@ -45,5 +45,5 @@ Feel free to contribute by improving the model performance or adding new feature
 This project is open-source and available for use under an appropriate license.
 
 ## Author
-[VARADA RAJA REDDY]
+VARADA RAJA REDDY
 
